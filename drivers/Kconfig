@@ -1,5 +1,5 @@
 if DISPLAY
 
-rsource "display/Kconfig.lpm009m360a"
+rsource "display/Kconfig"
 
 endif # DISPLAY
